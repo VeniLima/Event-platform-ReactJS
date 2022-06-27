@@ -36,6 +36,7 @@ export function Lesson(props: LessonProps) {
           "rounded border border-gray-500 p-4 mt-2 group-hover:border-green-500",
           {
             "bg-green-500": isActiveLesson,
+            "group-hover:border-orange-500": !isLessonAvailable,
           }
         )}
       >
