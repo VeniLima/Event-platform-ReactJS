@@ -1,3 +1,5 @@
+Acesse em: https://event-platform-react-js.vercel.app/
+
 # Dependências
  - [GraphQL](https://graphql.org/)
  - [GraphCMS](https://graphcms.com/)
