@@ -1,5 +1,11 @@
 Acesse em: https://event-platform-react-js.vercel.app/
 
+# Features adicionadas
+
+ - [x] Aula inacessivel caso ainda não seja liberada
+ - [ ] Layout responsivo
+ - [ ] Tela inicial personalizada
+
 # Dependências
  - [GraphQL](https://graphql.org/)
  - [GraphCMS](https://graphcms.com/)
